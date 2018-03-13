@@ -5,3 +5,4 @@ Funciona bien con la integración de Atom. Voy a probar si Komodo Edit también 
 
 Prueba de Integración con Komodo Edit
 
+Resultó, se aprecian los cambios en Remote también.
