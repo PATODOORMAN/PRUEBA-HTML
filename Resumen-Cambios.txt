@@ -1,0 +1,10 @@
+Funciona bien con la integración de Atom. Voy a probar si Komodo Edit también tiene una integración.
+
+Prueba de Integración con Komodo Edit
+
+Resultó, se aprecian los cambios en Remote también.
+
+También resultó hacer un Pull desde el remote pero con Git Clone,
+las otras herramientas me dan como resultado un error de path.
+
+Se cambiará el nombre para hacer un resumen del control de versiones.
