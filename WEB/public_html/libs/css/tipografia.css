@@ -1,0 +1,44 @@
+@charset "utf-8";
+/******************************************************************************/
+/********** Hoja de estilos Tipografía para Prueba HTML *******************/
+/****************************************************************************/
+
+/**************************************************************************/
+/********************************>> FORMATO <<****************************/
+/************************************************************************/
+
+p {margin-top:10px;}
+
+h1 {font-size: 2rem;}
+
+h2 {font-size: 1.75rem;}
+
+h3 {font-size: 1.6rem;}
+
+h4 {font-size: 1.4rem;}
+
+h5 {font-size: 1.25rem;}
+
+h6 {font-size: 1.1rem;}
+
+.centrado {text-align: center !important;}
+
+.justificado {text-align: justify !important;}
+
+.izquierda {text-align: left !important;}
+
+.derecha {text-align: right !important;}
+
+.bold {font-weight:bold !important;}
+
+.italica {font-style: italic !important;}
+
+.block {display: block !important;}
+
+.matafloat{clear:both;}
+
+.gris {color: #999;}
+
+.rojo {color: #F00;}
+
+sup {font-size: 0.7rem;}
