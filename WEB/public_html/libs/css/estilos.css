@@ -1,0 +1,39 @@
+@charset "utf-8";
+/*******************************************************/
+/********** Hoja de estilos básicos Prueba HTML *******/
+/*****************************************************/
+
+body {
+    font-family:Arial, sans-serif;
+    line-height:1.5;
+    color:#333;
+}
+
+h1 {
+color:#666;
+font-size: 2.4em;
+}
+
+h2 {
+color:#999;
+font-size: 1.6em;
+
+}
+
+h3 {
+color: #999;
+font-size: 1.25em;
+
+}
+
+.centrado {text-align: center !important;}
+
+.justificado {text-align: justify !important;}
+
+.izquierda {text-align: left !important;}
+
+.derecha {text-align: right !important;}
+
+.bold {font-weight: bold !important;}
+
+.block {display: block;}
