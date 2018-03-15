@@ -10,24 +10,24 @@ body {
 }
 
 h1 {
-color:#666;
 font-size: 2.4em;
 font-size: 2.4rem;
+margin-top: -20px;
 }
 
 h2 {
-color:#999;
 font-size: 1.6em;
 font-size: 1.6rem;
-
 }
 
 h3 {
-color: #999;
 font-size: 1.25em;
 font-size: 1.25rem;
-
 }
+
+main {margin-left: 70px;}
+
+footer {text-align: center;}
 
 .centrado {text-align: center !important;}
 
@@ -40,3 +40,8 @@ font-size: 1.25rem;
 .bold {font-weight: bold !important;}
 
 .block {display: block;}
+
+.twitter {
+width:600px;
+margin:0 auto;
+}
